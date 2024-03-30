@@ -118,10 +118,14 @@ plt.show()
 
 ### True Stock Price, Predicted Stock Price vs time
 
-Include your plot here
+![Screenshot 2024-03-30 134148](https://github.com/NivethaKumar30/rnn-stock-price-prediction/assets/119559844/4dd6dd25-cb54-477c-a77f-8deb7a3db821)
+
 
 ### Mean Square Error
 
-Include the mean square error
+![Screenshot 2024-03-30 134111](https://github.com/NivethaKumar30/rnn-stock-price-prediction/assets/119559844/760aefc7-b032-4343-8361-6b8f750bd8cf)
+
 
 ## Result
+
+Thus a Recurrent Neural Network model for stock price prediction is done.
